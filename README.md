@@ -1,1 +1,1 @@
-# iamcoder_convention
+# iamcoder_guideline
