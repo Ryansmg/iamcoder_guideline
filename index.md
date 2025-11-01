@@ -67,10 +67,10 @@
 - ‘첫째 줄’ 대신 ‘첫 번째 줄’을 사용합니다. ‘번째 줄’ 앞에 수식이 오는 경우 ‘N번째’와 같이 ‘번째’ 앞에 공백을 넣지 않아야 합니다.
 - '질의' 대신 '쿼리' 표현을 사용합니다.
 - 입력은 다음 표현을 사용합니다.
-	- ‘~에 정수 N이 주어진다.’, ‘~ contains an integer N.’
-	-  ‘~에 세 개의 정수 A, B, C가 공백으로 구분되어 주어진다.’, ‘~ contains three space-separated integers A, B, and C.’
-	- ‘~에 N개의 정수 A_1, A_2, …, A_N이 공백으로 구분되어 주어진다.’, ‘~ contains N space-separated integers A_1, A_2, …, A_N.’
-	- ‘~에 N개의 알파벳 대문자로 구성된 문자열 S가 주어진다.’, ‘~ contains a string S consisting of N uppercase letters.’
+	- ‘\~에 정수 N이 주어진다.’, ‘~ contains an integer N.’
+	- ‘\~에 세 개의 정수 A, B, C가 공백으로 구분되어 주어진다.’, ‘~ contains three space-separated integers A, B, and C.’
+	- ‘\~에 N개의 정수 A_1, A_2, …, A_N이 공백으로 구분되어 주어진다.’, ‘~ contains N space-separated integers A_1, A_2, …, A_N.’
+	- ‘\~에 N개의 알파벳 대문자로 구성된 문자열 S가 주어진다.’, ‘~ contains a string S consisting of N uppercase letters.’
 	- ‘다음 N개의 줄 중 i번째 줄에 두 개의 정수 A_i, B_i가 공백으로 구분되어 주어진다.’, ‘The i-th line of the following N lines contains two space-separated integers A_i and B_i.’
 	- '다음 Q개의 줄에 쿼리들의 정보가 주어지며, 각 줄에는 ... 주어진다.'
 - 다중 테스트케이스 문제의 경우
